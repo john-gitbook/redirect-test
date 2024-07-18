@@ -2,5 +2,5 @@ root: ./
 
 redirects:
   help: page-1.md
-  redirect-test: page-1.md
+  redirect-test: README.md
   redirect-test/page-2: page-2.md
