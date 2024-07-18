@@ -1,6 +1,0 @@
-root: ./
-
-redirects:
-  wow: page-1.md
-  redirect-test: page-1.md
-  redirect-test/page-2: page-1.md
