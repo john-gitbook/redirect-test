@@ -14,5 +14,8 @@ layout:
 
 # Hi
 
-Main Page
-push to me
+Main Page push to me
+
+
+
+this is redirect 2
